@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d787d02-6678-4fcd-96f8-e8f1520315f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.php" afterDir="false" />
     </list>
@@ -47,18 +46,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581090129195</updated>
-      <workItem from="1581090131576" duration="15850000" />
+      <workItem from="1581090131576" duration="16960000" />
     </task>
+    <task id="LOCAL-00001" summary="design samara">
+      <created>1581109965861</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581109965861</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="design samara" />
+    <option name="LAST_COMMIT_MESSAGE" value="design samara" />
   </component>
   <component name="WindowStateProjectService">
     <state x="491" y="116" width="415" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1581090945777">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="491" y="116" width="415" height="583" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1581090945777" />
+    <state x="285" y="27" width="786" height="741" key="CommitChangelistDialog2" timestamp="1581109965760">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="285" y="27" width="786" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1581109965760" />
     <state x="449" y="314" key="Github.CreateGistDialog" timestamp="1581108057723">
       <screen x="0" y="27" width="1366" height="741" />
     </state>

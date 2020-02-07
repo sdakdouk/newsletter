@@ -26,16 +26,38 @@ if (isset($_POST) && !empty($_POST)) {
     <title>Generador de NewsLetter</title>
     <style>
         form{
+            display: flex;
+            margin-left: 20em;
             margin-top: 2.5em;
-            border: 1px solid #66ccff;
-            padding: 10px;
-            background: azure;
+        }
+
+
+        fieldset {
+            background-color: azure;
+            border: 1px solid #66ccff ;
+            border-radius: 4px;
+        }
+
+        legend {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            color: #1f94ff;
+            font-size: 17px;
+            font-weight: bold;
+            padding: 3px 5px 3px 7px;
+            width: auto;
         }
     </style>
 </head>
 <body>
 <div class="container">
+
     <form method="post" class="formu">
+        <fieldset class="col-md-6 px-3">
+            <legend>Newsletter:</legend>
+
+
         <div class="input-group mb-3">
             <div class="input-group-prepend">
                 <span class="input-group-text" id="basic-addon1">Titulo</span>
@@ -53,8 +75,11 @@ if (isset($_POST) && !empty($_POST)) {
             <option value="0">XML</option>
             <option value="1">JSON</option>
         </select>
+
         <button type="submit" class="btn btn-primary my-1">Submit</button>
+        </fieldset>
     </form>
+
 
 </div>
 </body>
