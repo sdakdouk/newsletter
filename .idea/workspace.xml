@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d787d02-6678-4fcd-96f8-e8f1520315f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1XUA75wEgt6t1fv0yXSH1z8LJwQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d787d02-6678-4fcd-96f8-e8f1520315f7" name="Default Changelist" comment="" />
+      <created>1581090129195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581090129195</updated>
+      <workItem from="1581090131576" duration="14341000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="116" width="415" height="583" key="#com.intellij.ide.util.MemberChooser" timestamp="1581090945777">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="116" width="415" height="583" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1581090945777" />
+    <state x="449" y="314" key="Github.CreateGistDialog" timestamp="1581108057723">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="449" y="314" key="Github.CreateGistDialog/0.27.1366.741@0.27.1366.741" timestamp="1581108057723" />
+    <state x="493" y="200" width="369" height="408" key="NewPhpClassDialog" timestamp="1581091075250">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="493" y="200" width="369" height="408" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1581091075250" />
+    <state x="500" y="320" width="355" height="162" key="NewPhpFileDialog" timestamp="1581106559165">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="500" y="320" width="355" height="162" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1581106559165" />
+    <state x="366" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581090131845">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="366" y="225" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1581090131845" />
+  </component>
+</project>
